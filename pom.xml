@@ -4,7 +4,7 @@
   <groupId>com.sample.webproject</groupId>
   <artifactId>tomcat-demo</artifactId>
   <packaging>war</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <name>tomcat-demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
